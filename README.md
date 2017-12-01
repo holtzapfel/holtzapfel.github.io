@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Published Apps
 
-You can use the [editor on GitHub](https://github.com/holtzapfel/holtzapfel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Bible Buddy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Google Play](https://play.google.com/store/apps/details?id=com.studios.holtzapfel.biblebuddy)
 
-### Markdown
+With notes that sync across all devices, daily devotions, and several Bible versions from which to choose, Bible Buddy is your pal to enhance your studies of the Word.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Versions:
++ English Standard Version (ESV) *^
++ King James Version (KJV)
++ World English Bible (WEB)
 
-```markdown
-Syntax highlighted code block
+Available Features:
++ Christian news articles
++ Numerous devotions
++ Quickly change between chapters via swipe or tab bar
++ Take and save notes (on the cloud!) while reading
++ Words of Christ in red (ESV only)
++ Daily verse
++ Dark Theme - for reading at night!
 
-# Header 1
-## Header 2
-### Header 3
+## Libraries
 
-- Bulleted
-- List
+### MenuMaker
 
-1. Numbered
-2. List
+[GitHub](https://github.com/holtzapfel/MenuMaker)
 
-**Bold** and _Italic_ and `Code` text
+Tired of creating and recreating a settings menu? Quit spending so much time on a menu that, if done correctly, nobody notices. Allow me to do the hard work for you. Use Menu Maker in your app with ease today!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/holtzapfel/holtzapfel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You will never have to design a menu again.
