@@ -1,8 +1,8 @@
-## Published Apps
+# Published Apps
 
-### Bible Buddy
+## [Bible Buddy](https://holtzapfel.github.io/BibleBuddy/)
 
-[Google Play](https://play.google.com/store/apps/details?id=com.studios.holtzapfel.biblebuddy)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.studios.holtzapfel.biblebuddy)
 
 With notes that sync across all devices, daily devotions, and several Bible versions from which to choose, Bible Buddy is your pal to enhance your studies of the Word.
 
@@ -20,9 +20,9 @@ Available Features:
 + Daily verse
 + Dark Theme - for reading at night!
 
-## Libraries
+# Libraries
 
-### MenuMaker
+## MenuMaker
 
 [GitHub](https://github.com/holtzapfel/MenuMaker)
 
